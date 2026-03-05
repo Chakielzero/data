@@ -1,0 +1,164 @@
+{
+  "videos": [
+    {
+      "title": "Guía Completa de Dolphin",
+      "description": "Configura Dolphin al máximo rendimiento en cualquier Android.",
+      "thumbnailAsset": "assets/videos/guiacompletadedolphin.jpg",
+      "url": "https://youtu.be/6kMG-12_eJI"
+    },
+    {
+      "title": "Los Mejores Emuladores 2026",
+      "description": "Comparativa de los emuladores más potentes del año.",
+      "thumbnailAsset": "assets/videos/mejoresemuladores2026.jpg",
+      "url": "https://youtu.be/J3fjbmhzsqA"
+    },
+    {
+      "title": "Vale la Pena emular 3ds en android?",
+      "description": "En este video analizo el rendimiento de Citra y Azahar en móviles.",
+      "thumbnailAsset": "assets/videos/valelapena3ds.jpg",
+      "url": "https://youtu.be/9EruTh9bmF8"
+    },
+    {
+      "title": "PPSSPP en Android",
+      "description": "Juega tus ROMs de PSP con la mejor calidad en móvil.",
+      "thumbnailAsset": "assets/videos/ppsspp.jpg",
+      "url": "https://youtu.be/1S3T0uNcLCE"
+    }
+  ],
+  "emulators": [
+    {
+      "name": "Dolphin",
+      "subtitle": "GameCube & Wii",
+      "iconAsset": "assets/emuladores/dolphin.webp",
+      "colorHex": "#00A2FF",
+      "description": "El emulador más completo para Nintendo GameCube y Wii.",
+      "url": "https://dolphin-emu.org/"
+    },
+    {
+      "name": "RetroArch",
+      "subtitle": "Multi-plataforma",
+      "iconAsset": "assets/emuladores/retroarch.webp",
+      "colorHex": "#9E00FF",
+      "description": "Frontend universal para docenas de núcleos de emulación.",
+      "url": "https://www.retroarch.com/"
+    },
+    {
+      "name": "PPSSPP",
+      "subtitle": "PlayStation PSP",
+      "iconAsset": "assets/emuladores/ppsspp.webp",
+      "colorHex": "#FF6B35",
+      "description": "El emulador de PSP más rápido y compatible del mercado.",
+      "url": "https://www.ppsspp.org/"
+    },
+    {
+      "name": "PCSX2",
+      "subtitle": "PlayStation 2",
+      "iconAsset": "assets/emuladores/PCSX2.webp",
+      "colorHex": "#00C853",
+      "description": "Emulador de PS2 con soporte para la mayoría de títulos.",
+      "url": "https://pcsx2.net/"
+    },
+    {
+      "name": "Citra",
+      "subtitle": "Nintendo 3DS",
+      "iconAsset": "assets/emuladores/citra.webp",
+      "colorHex": "#FFD600",
+      "description": "Emulador 3DS con soporte para resolución mejorada.",
+      "url": "https://citra-emu.org/"
+    },
+    {
+      "name": "Eden",
+      "subtitle": "Nintendo Switch",
+      "iconAsset": "assets/emuladores/eden.webp",
+      "colorHex": "#FF1744",
+      "description": "Emulador experimental de Nintendo Switch en PC.",
+      "url": "https://eden-emu.dev/"
+    },
+    {
+      "name": "Vita3K",
+      "subtitle": "PlayStation Vita",
+      "iconAsset": "assets/emuladores/vita3k.webp",
+      "colorHex": "#00BCD4",
+      "description": "Emulador de PS Vita con compatibilidad en aumento.",
+      "url": "https://vita3k.org/"
+    },
+    {
+      "name": "Azahar",
+      "subtitle": "Nintendo 3DS",
+      "iconAsset": "assets/emuladores/azahar.webp",
+      "colorHex": "#FF9800",
+      "description": "Fork mejorado de Citra con actualizaciones recientes.",
+      "url": "https://azahar-emu.org/"
+    }
+  ],
+  "guides": [
+    {
+      "title": "Ajuste de Rendimiento",
+      "subtitle": "Configuración base",
+      "iconName": "speed_rounded",
+      "colorHex": "#00A2FF",
+      "tags": ["FPS", "CPU", "GPU"],
+      "url": "https://www.youtube.com/watch?v=2isYuQZMbdU"
+    },
+    {
+      "title": "Shaders & Texturas",
+      "subtitle": "Mejora visual",
+      "iconName": "auto_awesome_rounded",
+      "colorHex": "#9E00FF",
+      "tags": ["4K", "HDR", "Filtros"],
+      "url": "https://www.youtube.com/watch?v=2isYuQZMbdU"
+    },
+    {
+      "title": "Controles & Mapeo",
+      "subtitle": "Gamepad y teclado",
+      "iconName": "sports_esports_rounded",
+      "colorHex": "#FF6B35",
+      "tags": ["XInput", "DInput"],
+      "url": "https://www.youtube.com/watch?v=2isYuQZMbdU"
+    },
+    {
+      "title": "Red & Multijugador",
+      "subtitle": "Juego en línea",
+      "iconName": "wifi_rounded",
+      "colorHex": "#00C853",
+      "tags": ["LAN", "Online", "P2P"],
+      "url": "https://www.youtube.com/watch?v=2isYuQZMbdU"
+    },
+    {
+      "title": "Save States",
+      "subtitle": "Guardado rápido",
+      "iconName": "save_rounded",
+      "colorHex": "#FFD600",
+      "tags": ["Slots", "Backup"],
+      "url": "https://www.youtube.com/watch?v=2isYuQZMbdU"
+    }
+  ],
+  "socials": [
+    {
+      "label": "YouTube",
+      "iconName": "smart_display_rounded",
+      "colorHex": "#FF1744",
+      "url": "https://www.youtube.com/@Chakielzero2"
+    },
+    {
+      "label": "Discord",
+      "iconName": "forum_rounded",
+      "colorHex": "#5865F2",
+      "url": "https://discord.gg/EmyFt8AN9V"
+    },
+    {
+      "label": "Telegram",
+      "iconName": "send_rounded",
+      "colorHex": "#00A2FF",
+      "url": "https://t.me/ChakielZero"
+    },
+    {
+      "label": "TikTok",
+      "iconName": "music_note_rounded",
+      "colorHex": "#E8F4FD",
+      "url": "https://www.tiktok.com/@chakielzero"
+    }
+  ],
+  "helpUrl": "https://youtube.com/shorts/2m-sf_1oz9o",
+  "websiteUrl": "https://www.chakielroms.com"
+}
