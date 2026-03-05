@@ -1,22 +1,6 @@
 {
   "games": [
     {
-      "id": "ps2_retired64_chakielapp_demo",
-      "title": "Retired64 chakielapp demo",
-      "description": "Retired64 chakielapp demo",
-      "coverImageUrl": "https://cdn.jsdelivr.net/gh/Chakielzero/data@main/images/linux/ps2_retired64_chakielapp_demo.jpg",
-      "platforms": [
-        "linux"
-      ],
-      "downloadUrl": "https://github.com/retired64",
-      "fileSize": "",
-      "addedDate": "2026-03-05T00:00:00Z",
-      "tags": [
-        "linux"
-      ],
-      "newTag": "nuevo"
-    },
-    {
       "id": "ps2_7_sins",
       "title": "7 Sins",
       "description": "7 Sins.chd",
