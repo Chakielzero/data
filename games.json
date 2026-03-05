@@ -257,20 +257,20 @@
       "newTag": ""
     },
     {
-      "id": "ps2_crash_tag_team_racing",
-      "title": "Crash Tag Team Racing",
-      "description": "Crash Tag Team Racing.chd",
-      "coverImageUrl": "https://cdn.jsdelivr.net/gh/Chakielzero/imagenes@main/ps2/chashracing.webp",
+      "id": "pc_marvel_s_spider_man_miles_morales",
+      "title": "Marvel's Spider-Man Miles Morales",
+      "description": "Marvel's Spider-Man Miles Morales",
+      "coverImageUrl": "https://cdn.jsdelivr.net/gh/Chakielzero/data@main/images/pc/pc_marvel_s_spider_man_miles_morales.jpg",
       "platforms": [
-        "ps2"
+        "pc"
       ],
-      "downloadUrl": "https://nephobox.com/s/1qA4Nb3DhBoIWc95_3APCIQ",
+      "downloadUrl": "https://1024terabox.com/s/1JCJEshAm7mQ5M--_DDlivg",
       "fileSize": "",
       "addedDate": "2026-02-25T00:00:00Z",
       "tags": [
-        "ps2"
+        "pc"
       ],
-      "newTag": ""
+      "newTag": "nuevo"
     },
     {
       "id": "ps2_devil_may_cry_3_dante_s_awakening",
@@ -305,20 +305,20 @@
       "newTag": ""
     },
     {
-      "id": "ps2_downhill_domination",
-      "title": "Downhill Domination",
-      "description": "Downhill Domination.chd",
-      "coverImageUrl": "https://cdn.jsdelivr.net/gh/Chakielzero/imagenes@main/ps2/downhill.webp",
+      "id": "pc_god_of_war_ragnarok_lite",
+      "title": "God of War Ragnarok Lite",
+      "description": "God of War Ragnarok Lite",
+      "coverImageUrl": "https://cdn.jsdelivr.net/gh/Chakielzero/images@main/pc/godofwarragnarok.webp",
       "platforms": [
-        "ps2"
+        "pc"
       ],
-      "downloadUrl": "https://nephobox.com/s/1oN8V8kj8nVDnGV9aA-DtcQ",
+      "downloadUrl": "https://1024terabox.com/s/1OYHE8cGAK1XbVLstx5DSMA",
       "fileSize": "",
       "addedDate": "2026-02-25T00:00:00Z",
       "tags": [
-        "ps2"
+        "pc"
       ],
-      "newTag": ""
+      "newTag": "nuevo"
     },
     {
       "id": "ps2_dragon_ball_z_budokai_2",
