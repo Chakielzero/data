@@ -193,22 +193,6 @@
       "newTag": "nuevo"
     },
     {
-      "id": "ps2_crash_bandicoot_the_wrath_of_cortex",
-      "title": "Crash Bandicoot - The Wrath of Cortex",
-      "description": "Crash Bandicoot - The Wrath of Cortex.chd",
-      "coverImageUrl": "https://cdn.jsdelivr.net/gh/Chakielzero/imagenes@main/ps2/chashwrath.webp",
-      "platforms": [
-        "ps2"
-      ],
-      "downloadUrl": "https://nephobox.com/s/12KYfNfU7nB2yEkwb5T2EiA",
-      "fileSize": "",
-      "addedDate": "2026-02-25T00:00:00Z",
-      "tags": [
-        "ps2"
-      ],
-      "newTag": ""
-    },
-    {
       "id": "ps2_crash_nitro_kart",
       "title": "Crash Nitro Kart",
       "description": "Crash Nitro Kart.chd",
