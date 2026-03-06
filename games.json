@@ -273,22 +273,6 @@
       "newTag": ""
     },
     {
-      "id": "pc_god_of_war_ragnarok_lite",
-      "title": "God of War Ragnarok Lite",
-      "description": "God of War Ragnarok Lite",
-      "coverImageUrl": "https://cdn.jsdelivr.net/gh/Chakielzero/images@main/pc/godofwarragnarok.webp",
-      "platforms": [
-        "pc"
-      ],
-      "downloadUrl": "https://1024terabox.com/s/1OYHE8cGAK1XbVLstx5DSMA",
-      "fileSize": "",
-      "addedDate": "2026-02-25T00:00:00Z",
-      "tags": [
-        "pc"
-      ],
-      "newTag": "nuevo"
-    },
-    {
       "id": "ps2_dragon_ball_z_budokai_2",
       "title": "Dragon Ball Z - Budokai 2",
       "description": "Dragon Ball Z - Budokai 2.chd",
@@ -465,8 +449,8 @@
       "newTag": ""
     },
     {
-      "id": "ps2_final_fantasy_x",
-      "title": "Final Fantasy X",
+      "id": "ps2_final_fantasy_x_2",
+      "title": "Final Fantasy X-2",
       "description": "Final Fantasy X .chd",
       "coverImageUrl": "https://cdn.jsdelivr.net/gh/Chakielzero/imagenes@main/ps2/ffx.webp",
       "platforms": [
@@ -481,7 +465,7 @@
       "newTag": ""
     },
     {
-      "id": "ps2_final_fantasy_x_2",
+      "id": "ps2_final_fantasy_x",
       "title": "Final Fantasy X",
       "description": "Final Fantasy X-2.chd",
       "coverImageUrl": "https://cdn.jsdelivr.net/gh/Chakielzero/imagenes@main/ps2/ffx2.webp",
@@ -1369,22 +1353,6 @@
         "ps2"
       ],
       "downloadUrl": "https://nephobox.com/s/1rfgl8bxo6v7gzMxzqBwXxg",
-      "fileSize": "",
-      "addedDate": "2026-02-25T00:00:00Z",
-      "tags": [
-        "ps2"
-      ],
-      "newTag": ""
-    },
-    {
-      "id": "ps2_tony_hawks_pro_skater_3",
-      "title": "Tony Hawks Pro Skater 4",
-      "description": "Tony Hawks Pro Skater 3.chd",
-      "coverImageUrl": "https://cdn.jsdelivr.net/gh/Chakielzero/imagenes@main/ps2/proskater3.webp",
-      "platforms": [
-        "ps2"
-      ],
-      "downloadUrl": "https://nephobox.com/s/1d6KqvXpdMkfEQQ7_szmzYQ",
       "fileSize": "",
       "addedDate": "2026-02-25T00:00:00Z",
       "tags": [
@@ -2449,7 +2417,7 @@
       "newTag": ""
     },
     {
-      "id": "ps3_resident_evil_5",
+      "id": "ps3_resident_evil_5_demo",
       "title": "Resident Evil 5 (DEMO)",
       "description": "Resident Evil 5 (DEMO).pkg",
       "coverImageUrl": "https://cdn.jsdelivr.net/gh/Chakielzero/imagenes@main/ps3/re5demo.webp",
@@ -4402,7 +4370,7 @@
     },
     {
       "id": "gamecube_resident_evil_code_veronica_x",
-      "title": "Resident Evil",
+      "title": "Resident Evil Code Veronica X",
       "description": "Resident Evil - Code - Veronica X (Europe).rvz",
       "coverImageUrl": "https://cdn.jsdelivr.net/gh/Chakielzero/imagenes@main/gamecube/residentcode.webp",
       "platforms": [
