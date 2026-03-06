@@ -177,20 +177,20 @@
       "newTag": ""
     },
     {
-      "id": "ps2_chash_twinsanity",
-      "title": "Chash Twinsanity",
-      "description": "Chash Twinsanity.chd",
-      "coverImageUrl": "https://cdn.jsdelivr.net/gh/Chakielzero/imagenes@main/ps2/chashtwi.webp",
+      "id": "pc_marvel_s_spider_man_remastered",
+      "title": "Marvel's Spider-Man Remastered",
+      "description": "Marvel's Spider-Man Remastered",
+      "coverImageUrl": "https://cdn.jsdelivr.net/gh/Chakielzero/data@main/images/pc/pc_marvel_s_spider_man_remastered.jpg",
       "platforms": [
-        "ps2"
+        "pc"
       ],
-      "downloadUrl": "https://nephobox.com/s/1anZ6L3XaX9SOwUGYgfG6hA",
+      "downloadUrl": "https://1024terabox.com/s/1AzLYGdvnVN0apD8Rxgcwyg",
       "fileSize": "",
       "addedDate": "2026-02-25T00:00:00Z",
       "tags": [
-        "ps2"
+        "pc"
       ],
-      "newTag": ""
+      "newTag": "nuevo"
     },
     {
       "id": "ps2_crash_bandicoot_the_wrath_of_cortex",
