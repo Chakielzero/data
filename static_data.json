@@ -1,8 +1,21 @@
 {
-  "adBanner": {
-    "imageUrl": "https://cdn.jsdelivr.net/gh/Chakielzero/data@main/eneba.webp",
-    "linkUrl": "https://ene.ba/ChakielZero-ENEBA"
-  },
+  "adBanners": [
+    {
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Chakielzero/data@main/eneba.webp",
+      "linkUrl": "https://ene.ba/ChakielZero-ENEBA",
+      "durationSeconds": 5
+    },
+    {
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Chakielzero/data@main/ad_slot2.webp",
+      "linkUrl": "https://tuenlace2.com",
+      "durationSeconds": 6
+    },
+    {
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Chakielzero/data@main/ad_slot3.webp",
+      "linkUrl": "https://tuenlace3.com",
+      "durationSeconds": 4
+    }
+  ],
   "videos": [
     {
       "title": "Guía Completa de Dolphin",
