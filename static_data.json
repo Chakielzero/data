@@ -11,9 +11,9 @@
       "durationSeconds": 6
     },
     {
-      "imageUrl": "https://cdn.jsdelivr.net/gh/Chakielzero/data@main/ad_slot3.webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Chakielzero/data@main/pictures_ads/1000086099.png",
       "linkUrl": "https://youtube.com/@chakielzero2",
-      "durationSeconds": 4
+      "durationSeconds": 30
     }
   ],
   "videos": [
@@ -114,7 +114,11 @@
       "subtitle": "Configuración base",
       "iconName": "speed_rounded",
       "colorHex": "#00A2FF",
-      "tags": ["FPS", "CPU", "GPU"],
+      "tags": [
+        "FPS",
+        "CPU",
+        "GPU"
+      ],
       "url": "https://www.youtube.com/watch?v=2isYuQZMbdU"
     },
     {
@@ -122,7 +126,11 @@
       "subtitle": "Mejora visual",
       "iconName": "auto_awesome_rounded",
       "colorHex": "#9E00FF",
-      "tags": ["4K", "HDR", "Filtros"],
+      "tags": [
+        "4K",
+        "HDR",
+        "Filtros"
+      ],
       "url": "https://www.youtube.com/watch?v=2isYuQZMbdU"
     },
     {
@@ -130,7 +138,10 @@
       "subtitle": "Gamepad y teclado",
       "iconName": "sports_esports_rounded",
       "colorHex": "#FF6B35",
-      "tags": ["XInput", "DInput"],
+      "tags": [
+        "XInput",
+        "DInput"
+      ],
       "url": "https://www.youtube.com/watch?v=2isYuQZMbdU"
     },
     {
@@ -138,7 +149,11 @@
       "subtitle": "Juego en línea",
       "iconName": "wifi_rounded",
       "colorHex": "#00C853",
-      "tags": ["LAN", "Online", "P2P"],
+      "tags": [
+        "LAN",
+        "Online",
+        "P2P"
+      ],
       "url": "https://www.youtube.com/watch?v=2isYuQZMbdU"
     },
     {
@@ -146,7 +161,10 @@
       "subtitle": "Guardado rápido",
       "iconName": "save_rounded",
       "colorHex": "#FFD600",
-      "tags": ["Slots", "Backup"],
+      "tags": [
+        "Slots",
+        "Backup"
+      ],
       "url": "https://www.youtube.com/watch?v=2isYuQZMbdU"
     }
   ],
