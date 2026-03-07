@@ -1,4 +1,8 @@
 {
+  "adBanner": {
+    "imageUrl": "https://cdn.jsdelivr.net/gh/Chakielzero/data@main/eneba.webp",
+    "linkUrl": "https://ene.ba/ChakielZero-ENEBA"
+  },
   "videos": [
     {
       "title": "Guía Completa de Dolphin",
