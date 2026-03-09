@@ -1,13 +1,7 @@
 {
-  "appConfig": {
-    "minVersion": "1.1.0",
-    "latestVersion": "1.1.0",
-    "forceUpdate": false,
-    "updateUrl": "https://www.chakielroms.com/download"
-  },
   "adBanners": [
     {
-      "imageUrl": "https://cdn.jsdelivr.net/gh/Chakielzero/data@main/eneba.webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Chakielzero/data@main/pictures_ads/1000085923.png",
       "linkUrl": "https://youtube.com/@chakielzero2",
       "durationSeconds": 5
     },
