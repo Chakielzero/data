@@ -9761,6 +9761,22 @@
       "newTag": ""
     },
     {
+      "id": "android_everycine",
+      "title": "EveryCine",
+      "description": "EveryCine.apk",
+      "coverImageUrl": "https://cdn.jsdelivr.net/gh/Chakielzero/imagenes@main/android/everycine.webp",
+      "platforms": [
+        "android"
+      ],
+      "downloadUrl": "https://apkfy.one/chak",
+      "fileSize": "",
+      "addedDate": "2026-02-25T00:00:00Z",
+      "tags": [
+        "android"
+      ],
+      "newTag": ""
+    },
+    {
       "id": "android_aethersx2",
       "title": "Aethersx2",
       "description": "Aethersx2 v3668.apk",
